@@ -1,4 +1,4 @@
-### <h2 align="left">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -49,10 +49,6 @@
 ###
 
 <h2 align="left"></h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/erysmvn/erysmvn/output/snake.svg" alt="Snake animation" />
 
 ###
 
