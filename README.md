@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm <a href="[https://www.linkedin.com/in/francesco-%E2%80%8E%E2%80%8F%E2%80%8F%E2%80%8Ede-francesco-1957b5276/](https://www.linkedin.com/in/francesco-de-francesco-1957b5276/)">Francesco</a> a cs student from Italy 🇮🇹</h3>
+<h3 align="left">I'm <a href="https://www.linkedin.com/in/francesco-de-francesco-1957b5276/">Francesco</a> a cs student from Italy 🇮🇹</h3>
 
 ###
 
